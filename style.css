@@ -10,4 +10,22 @@ body{
 #transaction-area{
  display: none;
 }
-
+.text-center{
+    color:	#2AAA8A;
+}
+.status{
+    margin: 0px 20px;
+    color:white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.deposit{
+  
+    background-color:slateblue ;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+background-color:red;
+}
